@@ -4,6 +4,7 @@
 - Click on **Extensions → Apps Script.**
 - Delete any existing code (if needed) and paste the script of the function.
 - Save the project (you can name it as “Custom Functions”).
+- You can also add a separate file for each function if you want to include more than one function, and save the file using the function’s own name (e.g., CumulativeAverage.gs)..
 - Close the Apps Script editor.
 - Back in the spreadsheet, you can now use the function like any built-in one.
 
