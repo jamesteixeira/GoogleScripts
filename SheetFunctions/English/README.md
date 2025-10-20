@@ -5,13 +5,7 @@
 - Delete any existing code (if needed) and paste the script of the function.
 - Save the project (you can name it as “Custom Functions”).
 - Close the Apps Script editor.
-- Back in the spreadsheet, you can now use the function like any built-in one:
-
-```=CUMULATIVEAVERAGE(B2:B11)```
-
-or with rounding:
-
-```=CUMULATIVEAVERAGE(B2:B11, 2)```
+- Back in the spreadsheet, you can now use the function like any built-in one.
 
 - The function will automatically “spill” the results into the column below.
 

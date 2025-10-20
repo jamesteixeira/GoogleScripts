@@ -5,15 +5,7 @@
 - Apague qualquer código existente (se necessário) e cole o script da função MediaAcumulada.
 - Salve o projeto (pode nomear como “Funções Personalizadas”).
 - Feche o editor do Apps Script.
-- De volta à planilha, use a função como qualquer outra função nativa:
-
-```=MEDIAACUMULADA(B2:B11)```
-
-ou com arredondamento:
-
-```=MEDIAACUMULADA(B2:B11; 2)```
-
-- A função preencherá automaticamente os resultados na coluna abaixo. 
+- De volta à planilha, use a função como qualquer outra função nativa.
 
 Se a função não atualizar de imediato, recarregue a planilha ou digite novamente a fórmula. \
 A função personalizada é executada automaticamente e não requer permissões adicionais.
