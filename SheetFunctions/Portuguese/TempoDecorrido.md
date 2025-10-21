@@ -38,4 +38,4 @@ Se alguma das datas for inválida, a função retornará "Datas inválidas". \
 Se a data final for anterior à data inicial, a função retornará "A data final deve ser maior que a data inicial.". \
 O resultado é apenas textual e não pode ser usado diretamente em cálculos.
 
-[Voltar para README](README.md)
+[Voltar para SheetFunctions/Portuguese/README.md](README.md)

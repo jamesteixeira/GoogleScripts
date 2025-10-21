@@ -38,4 +38,4 @@ If either input is not a valid date, the function returns "Invalid dates". \
 If the end date is earlier than the start date, the function returns "The end date must be later than the start date." \
 The result is textual only and cannot be used directly in numeric calculations.
 
-[Back to README](README.md)
+[Back to SheetFunctions/English/README.md](README.md)

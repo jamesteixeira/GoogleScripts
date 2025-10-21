@@ -32,4 +32,4 @@ If omitted, results are not rounded.
 - The function must be inserted as an *array formula* (it spills automatically in Google Sheets).  
 - Text values are ignored; commas in numeric text (e.g., `"1,23"`) are treated as decimal points (`1.23`).
 
-[Back to README](README.md)
+[Back to SheetFunctions/English/README.md](README.md)

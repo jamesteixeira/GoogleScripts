@@ -31,4 +31,4 @@ Cada célula do resultado representa a média de todos os valores desde a primei
 - A função deve ser inserida como uma *fórmula de matriz* (ela se expande automaticamente no Google Sheets).  
 - Valores de texto são ignorados; vírgulas em textos numéricos (por exemplo, `"1,23"`) são interpretadas como ponto decimal (`1.23`).
 
-[Voltar para README](README.md)
+[Voltar para SheetFunctions/Portuguese/README.md](README.md)
