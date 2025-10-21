@@ -15,6 +15,8 @@ A função personalizada é executada automaticamente e não requer permissões 
 
 ## MEDIAACUMULADA
 
+- [MediaAcumulada](MediaAcumulada.md)
+
 Calcula a média acumulada (ou média móvel crescente) de uma coluna de números e retorna o resultado como uma matriz de coluna.  
 Cada célula do resultado representa a média de todos os valores desde a primeira até aquela linha.
 
@@ -47,6 +49,8 @@ Cada célula do resultado representa a média de todos os valores desde a primei
 - Valores de texto são ignorados; vírgulas em textos numéricos (por exemplo, `"1,23"`) são interpretadas como ponto decimal (`1.23`).
 
 ## TEMPODECORRIDO
+
+- [TempoDecorrido](TempoDecorrido.md)
 
 Calcula o tempo decorrido entre duas datas e retorna o resultado em anos, meses e dias, no formato de texto. \
 A função ajusta automaticamente os valores para considerar meses e dias incompletos.
