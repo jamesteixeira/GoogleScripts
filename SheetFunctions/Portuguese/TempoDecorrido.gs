@@ -1,3 +1,14 @@
+/**
+ * TempoDecorrido.gs
+ * Copyright (c) 2025 James Santos Teixeira
+ *
+ * Desenvolvido por James Santos Teixeira
+ * com assistência do ChatGPT da OpenAI.
+ *
+ * Este software é disponibilizado sob a Licença MIT.
+ * Consulte o arquivo LICENSE na raiz do repositório para mais detalhes.
+ */
+
 function tempodecorrido(dataInicial, dataFinal) {
   // Verificar se as entradas são datas válidas
   if (!(dataInicial instanceof Date) || !(dataFinal instanceof Date)) {

@@ -1,4 +1,15 @@
 /**
+ * CumulativeAverage.gs
+ * Copyright (c) 2025 James Santos Teixeira
+ *
+ * Developed by James Santos Teixeira
+ * with assistance from OpenAI’s ChatGPT.
+ *
+ * This software is released under the MIT License.
+ * See the LICENSE file in the repository root for details.
+ */
+
+/**
  * Returns the cumulative average (mean) as a column (2D array).
  * Usage in the spreadsheet: =CumulativeAverage(B2:B11)
  * Optional: =CumulativeAverage(B2:B11, 4)  -> rounds to 4 decimal places

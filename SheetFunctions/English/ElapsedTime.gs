@@ -1,3 +1,15 @@
+/**
+ * ElapsedTime.gs
+ * Copyright (c) 2025 James Santos Teixeira
+ *
+ * Developed by James Santos Teixeira
+ * with assistance from OpenAI’s ChatGPT.
+ *
+ * This software is released under the MIT License.
+ * See the LICENSE file in the repository root for details.
+ */
+
+
 function elapsedTime(startDate, endDate) {
   // Check if the inputs are valid dates
   if (!(startDate instanceof Date) || !(endDate instanceof Date)) {
