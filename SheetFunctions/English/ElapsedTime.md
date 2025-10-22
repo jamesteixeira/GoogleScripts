@@ -17,7 +17,7 @@ The function automatically adjusts incomplete months and days for accurate resul
 
 - **end_date** — The ending date of the interval. Must be later than the start date.
 
-## Return
+### Return
 
 A descriptive string representing the elapsed time between the two dates, for example:
 

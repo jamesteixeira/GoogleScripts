@@ -17,7 +17,7 @@ A função ajusta automaticamente os valores para considerar meses e dias incomp
 
 - **data_final** — A data de término do intervalo. Deve ser posterior à data inicial.
 
-## Retorno
+### Retorno
 
 Uma string descritiva com o tempo decorrido entre as duas datas, por exemplo:
 

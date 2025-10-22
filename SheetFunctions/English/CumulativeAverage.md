@@ -3,7 +3,7 @@
 Calculates the cumulative average (running mean) of a column of numbers and returns the result as a column array.
 Each cell in the output represents the average of all values from the first to that row.
 
-## Sample Usage
+### Sample Usage
 
 ```CUMULATIVEAVERAGE(A2:A06, 8)```
 
