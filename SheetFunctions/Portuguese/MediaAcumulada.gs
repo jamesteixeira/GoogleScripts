@@ -9,7 +9,6 @@
  * Consulte o arquivo LICENSE na raiz do repositório para mais detalhes.
  */
 
-
 /**
  * Retorna a média acumulada (cumulative mean) como uma coluna (2D array).
  * Uso na planilha: =MediaAcumulada(B2:B11)

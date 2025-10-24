@@ -14,6 +14,7 @@
  * Usage in the spreadsheet: =CumulativeAverage(B2:B11)
  * Optional: =CumulativeAverage(B2:B11, 4)  -> rounds to 4 decimal places
  */
+ 
 function CumulativeAverage(inputRange, decimals) {
   // receives a range (2D array) when called as a custom function
   var input = inputRange;

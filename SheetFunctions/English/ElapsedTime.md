@@ -29,7 +29,7 @@ A descriptive string representing the elapsed time between the two dates, for ex
 | A | B | Formula | Result |
 |-----|-----|----------|-------|
 | 01/01/2020 | 03/15/2023 | =ELAPSEDTIME(A2; B2) | 3 years, 2 months and 14 days |
-| 05/10/2022 | 06/25/2022 | ELAPSEDTIME(A3; B3) | 1 month and 15 days |
+| 05/10/2022 | 06/25/2022 | =ELAPSEDTIME(A3; B3) | 1 month and 15 days |
 | 01/01/2024 | 01/01/2025 | =ELAPSEDTIME(A4; B4) | 1 year |
 
 **Notes:**
